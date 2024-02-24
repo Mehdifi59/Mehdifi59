@@ -2,7 +2,7 @@
 <h1 align="center">Yo 👋, i'm 0xM3HD1</h1>
 <h3 align="center">A shell lover 🚀</h3>
 
-<img align="right" alt="cyberpunk" width="400" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif">
+<img align="right" alt="cyberpunk" width="400" src="./error.jpg">
 
 - 💻​ I’m currently learning **Computer Science**
 
