@@ -1,6 +1,6 @@
 ![MasterHead](./cyberpunk.gif)
 <h1 align="center">👋 0xM3HD1</h1>
-<h3 align="center">Le bash le meilleur langage 😔</h3>
+<h3 align="center">Le bash, le meilleur langage.. 😔</h3>
 
 <img align="right" alt="cyberpunk" width="400" src="./error.jpg">
 
