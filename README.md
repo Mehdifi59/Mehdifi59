@@ -1,5 +1,5 @@
 ![MasterHead](./cyberpunk.gif)
-<h1 align="center">Yo 👋, i'm 0xM3HD1</h1>
+<h1 align="center">👋 0xM3HD1</h1>
 <h3 align="center">A shell lover 🚀</h3>
 
 <img align="right" alt="cyberpunk" width="400" src="./error.jpg">
