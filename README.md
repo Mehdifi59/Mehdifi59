@@ -6,10 +6,9 @@
 <img align="right" alt="cyberpunk" width="400" src="./error.jpg">
 
 
-
+ - 💻​ I’m currently learning **How to center a div**
 
 <p align="left">
-  - 💻​ I’m currently learning **Computer Science**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
